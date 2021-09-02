@@ -13,7 +13,9 @@
   <img align="center" alt="Ma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ma-phot" height="30" width="40" src="https://simpleicons.org/icons/adobephotoshop.svg">
   <img align="center" alt="Ma-pre" height="30" width="40" src="https://simpleicons.org/icons/adobepremierepro.svg">
-  <img align="center" alt="Ma-MAL" height="30" width="40" color = "#2E51A2" src="https://simpleicons.org/icons/myanimelist.svg">
+<img align="center" alt="Ma-MAL" height="30" width="40" color: "blue" src="https://simpleicons.org/icons/myanimelist.svg">
+
+
 
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   
