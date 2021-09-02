@@ -27,8 +27,10 @@
   <a href = "mailto:ma.doiszerosete@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   
-    ##
+   ##
+ 
  <div>
+  
   <img align="center" alt="Luffy" src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
  </div>
   
