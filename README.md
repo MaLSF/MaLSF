@@ -25,10 +25,10 @@
   <a href="https://instagram.com/masallalf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/s4lla_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ma.doiszerosete@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   ##
-  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
  </div>
   
+    ##
+  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
   
   
   
