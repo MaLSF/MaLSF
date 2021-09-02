@@ -1,7 +1,7 @@
 - ## Welcome!
 
  <div>
-  <a href="https://beacons.ai/MaLSF">
+  <a href="https://github.com/MaLSF">
   <img align="center"img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaLSF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
