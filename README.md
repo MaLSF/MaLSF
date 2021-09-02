@@ -28,7 +28,8 @@
  </div>
   
     ##
-  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
-  
+ <div>
+  <img align="center" alt="Luffy" src="https://c.tenor.com/fCvgrro-iaMAAAAd/luffy-gif-ep982-luffy.gif">
+ </div>
   
   
