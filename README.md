@@ -6,14 +6,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ma-Ae" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="Ma-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ma-phot" height="30" width="40" src="https://simpleicons.org/icons/adobephotoshop.svg">
-  <img align="center" alt="Ma-pre" height="30" width="40" src="https://simpleicons.org/icons/adobepremierepro.svg">
-<img align="center" alt="Ma-MAL" height="30" width="40" color: "blue" src="https://simpleicons.org/icons/myanimelist.svg">
+
 
 
 
